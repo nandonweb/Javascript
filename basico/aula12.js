@@ -1,0 +1,1 @@
+// Dados Primitivos - String, Number, undefined, null, boolean, symbol

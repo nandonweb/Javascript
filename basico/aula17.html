@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const seunome = prompt("Digite seu nome completo");
+        // 0123456789101112131415  
+        // Fernando Silva Macario
+        document.body.innerHTML += `O seu nome é: <strong>${seunome}</strong> <br />`;
+        document.body.innerHTML += `O seu nome tem ${seunome.length} Letras <br />`;
+        document.body.innerHTML += `A segunda letra do seu nome é: ${seunome.charAt(1)}<br/ >`;
+        document.body.innerHTML += `Qual o primeiro indece da letra A no seu nome: ${seunome.indexOf('a')}<br>`;
+        document.body.innerHTML += `Qual o ultimo indece da letra A no seu nome: ${seunome.lastIndexOf('a')}<br>`;
+        document.body.innerHTML += `As ultimas 3 letras do seu nome: ${seunome.slice('-3', seunome.length)}<br>`;
+        document.body.innerHTML += `As palavras do seu nome: ${seunome.split(' ')}<br>`;
+        document.body.innerHTML += `O seu nome em letra maiusculas: ${seunome.toUpperCase()}<br>`;
+        document.body.innerHTML += `O seu nome em letra minusculas: ${seunome.toLowerCase()}<br>`;
+    </script>
+</body>
+</html>
