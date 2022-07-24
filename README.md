@@ -1,4 +1,4 @@
 # Javascript
 
-Modulo 1 - Iniciante - Em Andamento <br />
-Modulo 2 - 
+Modulo 1: Iniciante - Em Andamento <br />
+Modulo 2: 
