@@ -17,5 +17,11 @@ Alert, Prompt, Confirm
 parsetInt, parsetFloor
 
 Objeto Math
+Função
+Array
+
+Valores Primitivos e valores por referencia
+
+CONSERTAR aula27.js
 
 */
