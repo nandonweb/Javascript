@@ -10,8 +10,8 @@ Modulo 2: Logica de Programação - Em Andamento <br />
 Pratica: Relogio Basico, Mir4 Calculadora.
 
 
-
-<p align="left">**Projetos Futuros**</p>
+<!-- <p align="left">Projetos Futuros</p> -->
+**Projetos Futuros**
 
 1. Cronometro
 2. Calculadora
