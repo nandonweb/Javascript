@@ -1,0 +1,34 @@
+body {
+    background-color: coral;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 92vh;
+}
+
+.conteudo h1 {
+    font-size: 35px;
+    color: cyan;
+    margin-top: -5%;
+}
+
+.conteudo h2 {
+    font-size: 80px;
+}
+
+.video {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
