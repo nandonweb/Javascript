@@ -1,7 +1,7 @@
 # Javascript
 
 <p align="center">
-<img width="228" height="228" src="markdown/javascript.png">
+<img width="228" height="228" src="images/javascript.png">
 </p>
 
 Modulo 1: Iniciante - Concluido <br>
@@ -26,13 +26,13 @@ Modulo 3: Funções Avançado - ...
 
 ### API Rest
 <p align="center">
-<img src="/markdown/expressjs2.png">
+<img src="images/expressjs2.png">
 </p>
 
 
 ### React e Redux
 <p align="center">
-<img width="228" height="228" src="markdown/redux.png">
+<img width="228" height="228" src="images/redux.png">
 </p>
 
 
@@ -57,5 +57,5 @@ Modulo 3: Funções Avançado - ...
 
 ### Next.js
 <p align="center">
-<img width="228" height="228" src="markdown/nextjs.png">
+<img width="228" height="228" src="images/nextjs.png">
 </p> 
