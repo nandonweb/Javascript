@@ -11,7 +11,7 @@ Pratica: Relogio Basico, Mir4 Calculadora.
 
 
 
-<p align="center">Projetos Futuros</p>
+<p align="left">Projetos Futuros</p>
 
 1. Cronometro
 2. Calculadora
