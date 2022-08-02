@@ -1,15 +1,14 @@
 # Javascript
 
 <p align="center">
-<img width="228" height="228" src="https://logospng.org/download/javascript/logo-javascript-1024.png">
+<img width="228" height="228" src="markdown/javascript.png">
 </p>
 
-
-Modulo 1: Iniciante - Concluido
-Modulo 2: Logica de Programação - Em Andamento
+Modulo 1: Iniciante - Concluido <br>
+Modulo 2: Logica de Programação - Em Andamento <br>
 Modulo 3: Funções Avançado - ...
 
-Pratica: Relogio Basico, Mir4 Calculadora.
+*Pratica: Relogio Basico, Mir4 Calculadora.*
 
 **Projetos Futuros**
 
@@ -27,13 +26,13 @@ Pratica: Relogio Basico, Mir4 Calculadora.
 
 ### API Rest
 <p align="center">
-<img src="https://miro.medium.com/max/701/1*j8DELPVuI_w8045sxmHQsA.png">
+<img src="/markdown/expressjs2.png">
 </p>
 
 
 ### React e Redux
 <p align="center">
-<img width="228" height="228" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png">
+<img width="228" height="228" src="markdown/redux.png">
 </p>
 
 
@@ -58,5 +57,5 @@ Pratica: Relogio Basico, Mir4 Calculadora.
 
 ### Next.js
 <p align="center">
-<img width="228" height="228" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
+<img width="228" height="228" src="markdown/nextjs.png">
 </p> 
