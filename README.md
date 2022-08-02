@@ -27,7 +27,7 @@ Pratica: Relogio Basico, Mir4 Calculadora.
 
 ### API Rest
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+<img src="https://miro.medium.com/max/701/1*j8DELPVuI_w8045sxmHQsA.png">
 </p>
 
 
