@@ -5,8 +5,9 @@
 </p>
 
 Modulo 1: Iniciante - Concluido <br>
-Modulo 2: Logica de Programação - Em Andamento <br>
-Modulo 3: Funções Avançado - ...
+Modulo 2: Logica de Programação - Concluido <br>
+Modulo 3: Funções Avançado - Em Andamento <br>
+Modulo 4: Arrays Avançado - ...
 
 *Pratica: Relogio Basico, Mir4 Calculadora.*
 
@@ -45,11 +46,11 @@ Modulo 3: Funções Avançado - ...
 
 ### MySQL
 <p align="center">
-<img width="228" height="" src="https://cdn-icons-png.flaticon.com/512/528/528260.png">
+<img width="228" height="228" src="https://cdn-icons-png.flaticon.com/512/528/528260.png">
 </p>
 
 
-### Git e Github
+### Git e Github 
 <p align="center">
 <img width="228" height="228" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
 </p>

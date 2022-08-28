@@ -1,3 +1,5 @@
+// EStrutura de repetição
+
 let i = 0;
 
 while (i <= 10) {
