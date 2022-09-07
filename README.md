@@ -49,13 +49,6 @@ Modulo 4: Arrays Avançado - ...
 <img width="228" height="228" src="https://cdn-icons-png.flaticon.com/512/528/528260.png">
 </p>
 
-
-### Git e Github 
-<p align="center">
-<img width="228" height="228" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-</p>
-
-
 ### Next.js
 <p align="center">
 <img width="228" height="228" src="images/nextjs.png">
