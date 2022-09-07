@@ -1,0 +1,9 @@
+/*  ARRAYS
+filter
+
+map
+
+reduce
+
+
+*/
