@@ -1,7 +1,6 @@
 // Funções Fabrica, Factory Functions
 // Constructor function (função construtora)
 // Getter, Setter
-// não recomendado usar this
 
 function criaPessoa(nome, sobrenome, a, p) {
   return {
