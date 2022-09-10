@@ -8,7 +8,7 @@ Modulo 1: Iniciante - Concluido <br>
 Modulo 2: Logica de Programação - Concluido <br>
 Modulo 3: Funções Avançado - Concluido <br>
 Modulo 4: Arrays Avançado - Concluido <br>
-Modulo 4: Arrays Avançado - Em Andamento
+Modulo 5: Objetos Avançado - Em Andamento
 
 *Pratica: 
 1. Relogio Basico 
