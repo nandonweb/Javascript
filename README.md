@@ -6,17 +6,22 @@
 
 Modulo 1: Iniciante - Concluido <br>
 Modulo 2: Logica de Programação - Concluido <br>
-Modulo 3: Funções Avançado - Em Andamento <br>
-Modulo 4: Arrays Avançado - ...
+Modulo 3: Funções Avançado - Concluido <br>
+Modulo 4: Arrays Avançado - Concluido <br>
+Modulo 4: Arrays Avançado - Em Andamento
 
-*Pratica: Relogio Basico, Mir4 Calculadora.*
+*Pratica: 
+1. Relogio Basico 
+2. Mir4 Calculadora 
+3. Arrays Eleição 2022. 
 
 **Projetos Futuros**
 
 1. Cronometro
 2. Calculadora
 3. Quiz / Perguntas e Respostas
-4. Etc...
+4. App de Tempo com APi / muda o plano de fundo conforme o tempo
+5. AI Image Recognition
 
 ### Node.js
 
