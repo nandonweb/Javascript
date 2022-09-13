@@ -30,7 +30,7 @@ Modulo 5: Objetos Avançado - Em Andamento
 </p>
 
 
-### API Rest
+### API Rest, CRUD, Controles
 <p align="center">
 <img src="images/expressjs2.png">
 </p>
