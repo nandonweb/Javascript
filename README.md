@@ -8,7 +8,12 @@ Modulo 1: Iniciante - Concluido <br>
 Modulo 2: Logica de Programação - Concluido <br>
 Modulo 3: Funções Avançado - Concluido <br>
 Modulo 4: Arrays Avançado - Concluido <br>
-Modulo 5: Objetos Avançado - Em Andamento
+Modulo 5: Objetos Avançado - Concluido <br>
+Modulo 6: Classes - Concluido <br>
+Modulo 7: Javascript assincrono - Concluido <br>
+Modulo 8: Tooling e ES6 - Concluido <br>
+Modulo 9: Node JS - Concluido <br>
+Modulo 10: React - Em andamento <br>
 
 *Pratica: 
 1. Relogio Basico 
