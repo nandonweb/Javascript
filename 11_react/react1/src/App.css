@@ -1,0 +1,10 @@
+body {
+  background-color: orange;
+}
+
+.mouse {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  background-color: darkgreen;
+}
